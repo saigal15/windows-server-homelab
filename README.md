@@ -79,14 +79,33 @@ Implemented:
 
 #### Screenshot
 
-![DHCP](screenshots/04-dhcp-manager.png)
-![DHCP](screenshots/05-dhcp-manager.png)
+#### DHCP Scope
+
+![DHCP Scope](screenshots/04-dhcp-manager.png)
+
+#### Active Lease
+
+The Windows 11 client (PC01) successfully received its IP address automatically from the DHCP server.
+
+![DHCP Lease](screenshots/05-dhcp-manager.png)
 
 ### Group Policy
 
-- Created Group Policy Objects
-- Applied user policies
-- Tested policy application
+Configured and deployed Group Policy Objects to manage user settings.
+
+Implemented:
+
+- Linked a custom GPO to the Human Resources OU
+- Configured a mapped network drive (R:)
+- Automatically deployed the shared drive to domain users
+
+#### Screenshots
+
+![GPO Linked to OU](screenshots/06-gpo-link.png)
+
+![Drive Mapping Configuration](screenshots/07-gpo-drive-map.png)
+
+![Mapped Drive on Windows 11 Client](screenshots/08-gpo-result.png)
 
 ### Windows 11 Client
 
