@@ -168,17 +168,20 @@ The objective was to reproduce a typical enterprise environment and practice com
 
 ## Skills Demonstrated
 
+## Skills Demonstrated
+
 - Windows Server 2022 Administration
-- Active Directory
-- DNS
-- DHCP
-- Group Policy
+- Active Directory Domain Services (AD DS)
+- DNS Configuration
+- DHCP Configuration
+- Organizational Units (OU)
+- User & Group Management
+- Group Policy Objects (GPO)
 - SMB File Sharing
 - Windows 11 Domain Join
-- User & Group Management
-- Organizational Units (OU)
+- Drive Mapping via GPO
 - Network Troubleshooting
-- Basic Infrastructure Documentation
+- Infrastructure Documentation
 
 ---
 
