@@ -7,6 +7,19 @@ This project demonstrates the deployment of a Windows Server 2022 Home Lab desig
 The lab includes the installation and configuration of Active Directory Domain Services (AD DS), DNS, DHCP and Group Policy. A Windows 11 client was joined to the domain to simulate a real corporate environment.
 
 ---
+## Architecture
+
+![Architecture](screenshots/01-architecture.png)
+
+### Infrastructure
+
+- Windows Server 2022 Domain Controller (DC01)
+- Active Directory Domain Services
+- DNS Server
+- DHCP Server
+- Group Policy Objects (GPO)
+- SMB Shared Folder (RH)
+- Windows 11 Domain Client (PC01)
 
 ## 🎯 Objectives
 
