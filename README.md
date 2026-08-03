@@ -109,11 +109,22 @@ Implemented:
 
 ### Windows 11 Client
 
-- Joined Windows 11 to the domain
-- Logged in with a domain user
-- Verified network configuration
+Joined a Windows 11 workstation to the Active Directory domain and verified network connectivity.
 
----
+Verified:
+
+- Successful domain join
+- Domain user authentication
+- DNS resolution
+- DHCP IP assignment
+- Group Policy application
+- Network drive deployment (R:)
+
+#### Screenshots
+
+![Windows 11 Domain Client](screenshots/09-windows11-domain.png)
+
+![IP Configuration](screenshots/10-ipconfig-all.png)
 
 ## 📚 Skills Demonstrated
 
