@@ -37,6 +37,9 @@ The lab includes the installation and configuration of Active Directory Domain S
 ## ⚙️ Implemented Services
 
 ### Active Directory
+The server was promoted to a Domain Controller and configured with Active Directory Domain Services.
+
+Implemented features:
 
 - Installed Active Directory Domain Services
 - Promoted the server as a Domain Controller
@@ -44,11 +47,23 @@ The lab includes the installation and configuration of Active Directory Domain S
 - Created users
 - Created security groups
 
+#### Screenshot
+
+![Active Directory](screenshots/02-active-directory-users.png)
+
 ### DNS
+
+Configured the DNS Server role to provide name resolution for the Active Directory domain.
+
+Implemented:
 
 - Installed DNS Server
 - Configured Forward Lookup Zone
 - Verified name resolution
+
+#### Screenshot
+
+![DNS Manager](screenshots/03-dns-manager.png)
 
 ### DHCP
 
