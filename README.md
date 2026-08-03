@@ -80,6 +80,7 @@ Implemented:
 #### Screenshot
 
 ![DHCP](screenshots/04-dhcp-manager.png)
+![DHCP](screenshots/05-dhcp-manager.png)
 
 ### Group Policy
 
