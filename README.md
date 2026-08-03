@@ -67,11 +67,19 @@ Implemented:
 
 ### DHCP
 
+Configured the DHCP Server role to automatically assign IP addresses to domain clients.
+
+Implemented:
+
 - Created a DHCP Scope
 - Configured IP Address Range
 - Configured Default Gateway
 - Configured DNS Server
 - Verified IP address assignment
+
+#### Screenshot
+
+![DHCP](screenshots/04-dhcp-manager.png)
 
 ### Group Policy
 
