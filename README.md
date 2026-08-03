@@ -13,7 +13,7 @@ The lab includes the installation and configuration of Active Directory Domain S
 
 ### Infrastructure
 
-- Windows Server 2022 Domain Controller (DC01)
+- Windows Server 2022 (DC01)
 - Active Directory Domain Services
 - DNS Server
 - DHCP Server
@@ -163,6 +163,22 @@ screenshots/
 This project demonstrates the deployment of a small Windows Server infrastructure including Active Directory, DNS, DHCP, Group Policy and a Windows 11 domain client.
 
 The objective was to reproduce a typical enterprise environment and practice common System Administration and IT Support tasks.
+
+---
+
+## Skills Demonstrated
+
+- Windows Server 2022 Administration
+- Active Directory
+- DNS
+- DHCP
+- Group Policy
+- SMB File Sharing
+- Windows 11 Domain Join
+- User & Group Management
+- Organizational Units (OU)
+- Network Troubleshooting
+- Basic Infrastructure Documentation
 
 ---
 
