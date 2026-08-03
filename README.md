@@ -140,9 +140,16 @@ Verified:
 
 ---
 
-## 📸 Screenshots
+## Project Structure
 
-Screenshots will be added soon.
+screenshots/
+ README.md
+
+## Conclusion
+
+This project demonstrates the deployment of a small Windows Server infrastructure including Active Directory, DNS, DHCP, Group Policy and a Windows 11 domain client.
+
+The objective was to reproduce a typical enterprise environment and practice common System Administration and IT Support tasks.
 
 ---
 
